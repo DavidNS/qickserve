@@ -6,8 +6,8 @@ Simulated checkout system for a local supermarket based on QikServe.pdf requirem
 
 ./start.sh
 
-**Note:** The system requires "wiremock" server running to be able to retrieve correctly data. (located in ./wiremock folder)
-**Note:** Installation process requires sudo privileges (Needs to install jq)
+- **Note:** The system requires "wiremock" server running to be able to retrieve correctly data. (located in ./wiremock folder)
+- **Note:** Installation process requires sudo privileges (Needs to install jq)
 
 ## Assumptions 
 
